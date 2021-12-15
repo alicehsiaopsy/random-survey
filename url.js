@@ -8,7 +8,7 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+	'https://www.ptt.cc/bbs/PokemonGO/index.html',
+	'https://www.ptt.cc/bbs/index.html',
+	'https://www.ptt.cc/bbs/movie/index.html'
 ];
